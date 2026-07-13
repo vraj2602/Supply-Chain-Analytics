@@ -202,7 +202,7 @@ The dashboard consists of four analytical pages.
 
 ### Executive Dashboard
 
-* **Executive Overview:** ![Executive Overview](https://github.com/vraj2602/Supply-Chain-Analytics/blob/main/Screenshots/Executive%20Dashboard.png?raw=true)
+(https://github.com/vraj2602/Supply-Chain-Analytics/blob/main/Screenshots/Executive%20Dashboard.png?raw=true)
 
 Features:
 
