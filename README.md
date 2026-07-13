@@ -202,7 +202,7 @@ The dashboard consists of four analytical pages.
 
 ### Executive Dashboard
 
-* **Executive Overview:** ![Executive Overview](https://github.com/vraj2602/Regional-Sales-Analysis/blob/main/Executive%20Overview%20%26%20Trends.png?raw=true)
+* **Executive Overview:** ![Executive Overview](https://github.com/vraj2602/Supply-Chain-Analytics/blob/main/Screenshots/Executive%20Dashboard.png?raw=true)
 
 Features:
 
@@ -216,7 +216,7 @@ Features:
 
 ### Customer Analytics
 
-* **Executive Overview:** ![Executive Overview](https://github.com/vraj2602/Regional-Sales-Analysis/blob/main/Executive%20Overview%20%26%20Trends.png?raw=true)
+* **Executive Overview:** ![Executive Overview](https://github.com/vraj2602/Supply-Chain-Analytics/blob/main/Screenshots/Customer%20Analytics.png?raw=true)
 
 Features:
 
@@ -230,7 +230,7 @@ Features:
 
 ### Product Analytics
 
-* **Executive Overview:** ![Executive Overview](https://github.com/vraj2602/Regional-Sales-Analysis/blob/main/Executive%20Overview%20%26%20Trends.png?raw=true)
+* **Executive Overview:** ![Executive Overview](https://github.com/vraj2602/Supply-Chain-Analytics/blob/main/Screenshots/Product%20Analytics.png?raw=true)
 
 Features:
 
@@ -243,7 +243,7 @@ Features:
 
 ### Shipping Analytics
 
-* **Executive Overview:** ![Executive Overview](https://github.com/vraj2602/Regional-Sales-Analysis/blob/main/Executive%20Overview%20%26%20Trends.png?raw=true)
+* **Executive Overview:** ![Executive Overview](https://github.com/vraj2602/Supply-Chain-Analytics/blob/main/Screenshots/Shipping%20Analytics.png?raw=true)
 
 Features:
 
