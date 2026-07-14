@@ -202,7 +202,7 @@ The dashboard consists of four analytical pages.
 
 ### Executive Dashboard
 
-* **Executive Dashboard:** ![Executive Dashboard](https://github.com/vraj2602/Supply-Chain-Analytics/blob/main/Screenshots/Executive%20Dashboard.png?raw=true)
+![Executive Dashboard](https://github.com/vraj2602/Supply-Chain-Analytics/blob/main/Screenshots/Executive%20Dashboard.png?raw=true)
 
 Features:
 
@@ -216,7 +216,7 @@ Features:
 
 ### Customer Analytics
 
-* **Customer Analytics:** ![Customer Analytics](https://github.com/vraj2602/Supply-Chain-Analytics/blob/main/Screenshots/Customer%20Analytics.png?raw=true)
+![Customer Analytics](https://github.com/vraj2602/Supply-Chain-Analytics/blob/main/Screenshots/Customer%20Analytics.png?raw=true)
 
 Features:
 
@@ -230,7 +230,7 @@ Features:
 
 ### Product Analytics
 
-* **Product Analytics:** ![Product Analytics](https://github.com/vraj2602/Supply-Chain-Analytics/blob/main/Screenshots/Product%20Analytics.png?raw=true)
+![Product Analytics](https://github.com/vraj2602/Supply-Chain-Analytics/blob/main/Screenshots/Product%20Analytics.png?raw=true)
 
 Features:
 
